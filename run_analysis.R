@@ -1,4 +1,4 @@
-require(plyr)
+library(plyr)
 
 # Directories and files Paths
 uciHard.dir <- "UCI_HAR_Dataset"
